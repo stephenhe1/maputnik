@@ -101,6 +101,7 @@
     "@cypress/code-coverage": "^4.0.3",
     "@eslint/js": "^10.0.1",
     "@istanbuljs/nyc-config-typescript": "^1.0.2",
+    "@playwright/test": "^1.61.1",
     "@rollup/plugin-replace": "^6.0.3",
     "@shellygo/cypress-test-utils": "^6.0.6",
     "@stylistic/eslint-plugin": "^5.10.0",
